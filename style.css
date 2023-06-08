@@ -11,7 +11,10 @@ html::-webkit-scrollbar-track{
   background: transparent;
   
 }
-
+body
+{
+    overflow-y: hidden;
+}
 
 html::-webkit-scrollbar-thumb{
   background: #b2744c;
